@@ -10,17 +10,16 @@
 </a>
 
 ---
-## `🙋‍♂️ About Me`
-Originally from Goiás, I've harbored a lifelong aspiration to be an "inventor," driven by a desire to create technologies that simplify daily life. This passion led me to pursue Mechatronics Engineering at the Federal University of Uberlândia (UFU).
+## 🙋‍♂️ About Me
+Originally from Goiás, I've harbored a lifelong aspiration to be an "inventor," driven by a desire to create technologies that simplify daily life. This passion led me to pursue **Mechatronics Engineering** at the Federal University of Uberlândia (UFU).
 
-My undergraduate journey has been a deep dive into the diverse facets of mechatronics. I've served as a teaching assistant for a CAD course, completed an internship in 3D printing, and immersed myself in robotics laboratories at both UFU and USP. My involvement extends to a competition and outreach team focused on model rocket engineering, where I currently manage the Payload area for EPTA (Aerospace Propulsion and Technology Team).
+My undergraduate journey has been a deep dive into the diverse facets of mechatronics. I've served as a **teaching assistant for a CAD course**, completed an internship in **3D printing**, and immersed myself in **robotics laboratories** at both UFU and USP. My involvement extends to a competition and outreach team focused on **model rocket engineering**, where I currently manage the Payload area for **EPTA (Aerospace Propulsion and Technology Team)**.
 
-### `⚡ Technical Focus & Research`
-My technical experience centers on developing embedded firmware in C/C++ for ESP32 and STM32, specifically for rocket tracking and telemetry systems at EPTA. I also actively conduct research in robotics and artificial intelligence. At LAV (Acoustics and Vibrations Laboratory) at UFU, I focus on applying AI and statistical tools for Remaining Useful Life (RUL) prediction. Concurrently, at LabRoM (Mobile Robotics Group) within CRob (Robotics Center of the São Carlos School of Engineering, University of São Paulo), I develop algorithms for optimized object grasping using PyTorch.
+### ⚡ Technical Focus & Research
+My technical experience centers on developing **embedded firmware in C/C++ for ESP32 and STM32**, specifically for rocket tracking and telemetry systems at EPTA. I also actively conduct research in **robotics and artificial intelligence**. At LAV (Acoustics and Vibrations Laboratory) at UFU, I focus on applying **AI and statistical tools for Remaining Useful Life (RUL) prediction**. Concurrently, at LabRoM (Mobile Robotics Group) within CRob (Robotics Center of the São Carlos School of Engineering, University of São Paulo), I develop **algorithms for optimized object grasping using PyTorch**.
 
-### `💭​ Passion & Goals`
-I am deeply passionate about engineering, technology, innovation, and robotics, consistently seeking new and stimulating challenges in these fields. I thrive on learning new subjects and am fascinated by humanity's rapid evolution, particularly with the acceleration of AI. Ultimately, my goal is to leverage knowledge and technology to improve people's lives.
-
+### 💭​ Passion & Goals
+I am **deeply passionate about engineering, technology, innovation, and robotics**, consistently seeking new and stimulating challenges in these fields. I thrive on learning new subjects and am fascinated by humanity's rapid evolution, particularly with the acceleration of AI. Ultimately, my goal is to **leverage knowledge and technology to improve people's lives**.
 
 ---
 ## `🛠️ Key Tools`
