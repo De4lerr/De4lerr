@@ -23,9 +23,7 @@ I am deeply passionate about engineering, technology, innovation, and robotics, 
 
 
 ---
-## 🛠️ Key Tools
-
-Here are some of the main tools and technologies I work with:
+## `🛠️ Key Tools`
 
 ### Programming Languages
 [![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html)
@@ -47,15 +45,23 @@ Here are some of the main tools and technologies I work with:
 ### Tools & Environments
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FFBE00?style=for-the-badge&logo=jupyter&logoColor=black)](https://jupyter.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 ### Key Concepts
 [![Embedded Systems](https://img.shields.io/badge/Embedded--Systems-007ACC?style=for-the-badge&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
 [![Artificial Intelligence](https://img.shields.io/badge/Artificial--Intelligence-FFC107?style=for-the-badge&logo=tensorflow&logoColor=black)](https://en.wikipedia.org/wiki/Artificial_intelligence)
 [![Robotics](https://img.shields.io/badge/Robotics-00BCD4?style=for-the-badge&logo=ros&logoColor=white)](https://www.robotics.org/)
 
+---
+
+## 🏗️ Currently working on
+
+* [**`dl_grasping_loco_manipulation_2025`**](https://github.com/EESC-LabRoM/dl_grasping_loco_manipulation_2025/tree/main) - My ongoing work at LabRoM on deep learning for grasping and locomotion.
+* [**`Epta-space`**](https://github.com/Epta-space) - Exploring advancements in aerospace propulsion and technology with EPTA.
 <!--
 **De4lerr/De4lerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
