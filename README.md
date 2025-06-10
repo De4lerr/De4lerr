@@ -23,16 +23,38 @@ I am deeply passionate about engineering, technology, innovation, and robotics, 
 
 
 ---
+## 🛠️ Key Tools
 
-## 🛠️ Behind the scenes of my applications
-  ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) 
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-  ![Jupyter Notebook|102x28](https://img.shields.io/badge/Jupyter-FFBE00?style=for-the-badge&logo=jupyter&logoColor=black) 
-  ![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+Here are some of the main tools and technologies I work with:
+
+### Programming Languages
+[![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://www.iso.org/standard/74528.html)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+
+### Frameworks & Libraries
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/stable/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
+
+### Embedded Hardware & Design
+[![ESP32](https://img.shields.io/badge/ESP32-E73527?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![STM32](https://img.shields.io/badge/STM32-003366?style=for-the-badge&logo=stmicroelectronics&logoColor=white)](https://www.st.com/en/microcontrollers-microprocessors/stm32-arm-cortex-mcus.html)
+[![Altium Designer](https://img.shields.io/badge/Altium%20Designer-A59556?style=for-the-badge&logo=altium&logoColor=white)](https://www.altium.com/altium-designer)
+
+### Tools & Environments
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FFBE00?style=for-the-badge&logo=jupyter&logoColor=black)](https://jupyter.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
+### Key Concepts
+[![Embedded Systems](https://img.shields.io/badge/Embedded--Systems-007ACC?style=for-the-badge&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial--Intelligence-FFC107?style=for-the-badge&logo=tensorflow&logoColor=black)](https://en.wikipedia.org/wiki/Artificial_intelligence)
+[![Robotics](https://img.shields.io/badge/Robotics-00BCD4?style=for-the-badge&logo=ros&logoColor=white)](https://www.robotics.org/)
 
 <!--
 **De4lerr/De4lerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
