@@ -58,8 +58,8 @@ I am **deeply passionate about engineering, technology, innovation, and robotics
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eesc-labroM&repo=dl_grasping_loco_manipulation_2025&theme=dark" />
 </a>
 
-<a href="https://github.com/Epta-space/Payload-Telemetry-System">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=epta-space&repo=Payload-Telemetry-System&theme=dark" />
+<a href="https://github.com/Epta-space/Payload-Sensor-Fusion">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=epta-space&repo=Payload-Sensor-Fusion&theme=dark" />
 </a>
 
 <!--
