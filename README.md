@@ -50,11 +50,6 @@ I am **deeply passionate about engineering, technology, innovation, and robotics
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
-### Key Concepts
-[![Embedded Systems](https://img.shields.io/badge/Embedded--Systems-007ACC?style=for-the-badge&logo=microchip&logoColor=white)](https://en.wikipedia.org/wiki/Embedded_system)
-[![Artificial Intelligence](https://img.shields.io/badge/Artificial--Intelligence-FFC107?style=for-the-badge&logo=tensorflow&logoColor=black)](https://en.wikipedia.org/wiki/Artificial_intelligence)
-[![Robotics](https://img.shields.io/badge/Robotics-00BCD4?style=for-the-badge&logo=ros&logoColor=white)](https://www.robotics.org/)
-
 ---
 
 ## 🏗️ Currently working on
