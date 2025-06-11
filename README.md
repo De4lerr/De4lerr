@@ -1,8 +1,8 @@
 # `printf('Hello world! My name is Dilermando, aka Diler');`
-## `/*​​​👨🏻‍💻​⚡ Mechatronics Engeneering Student, Robotics and AI researcher 🚀​🤖*/`
+#### `/*​​​👨🏻‍💻​⚡ Mechatronics Engeneering Student, Robotics and AI researcher 🚀​🤖*/`
 
 ---
-## `📨​ Contact`
+### `📨​ Contact`
 <a href="https://www.linkedin.com/in/dilermando-alexandre-duarte-almeida-b65224211/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a> <a href="mailto:dilermandoada@gmail.com">
@@ -57,6 +57,7 @@ I am **deeply passionate about engineering, technology, innovation, and robotics
 <a href="https://github.com/EESC-LabRoM/dl_grasping_loco_manipulation_2025">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eesc-labroM&repo=dl_grasping_loco_manipulation_2025&theme=dark" />
 </a>
+
 <a href="https://github.com/Epta-space/Payload-Telemetry-System">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=epta-space&repo=Payload-Telemetry-System&theme=dark" />
 </a>
