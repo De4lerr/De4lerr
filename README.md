@@ -54,8 +54,13 @@ I am **deeply passionate about engineering, technology, innovation, and robotics
 
 ## 🏗️ Currently working on
 
-* [**`dl_grasping_loco_manipulation_2025`**](https://github.com/EESC-LabRoM/dl_grasping_loco_manipulation_2025/tree/main) - My ongoing work at LabRoM on deep learning for grasping and locomotion.
-* [**`Epta-space`**](https://github.com/Epta-space) - Exploring advancements in aerospace propulsion and technology with EPTA.
+<a href="https://github.com/EESC-LabRoM/dl_grasping_loco_manipulation_2025">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eesc-labroM&repo=dl_grasping_loco_manipulation_2025&theme=dark" />
+</a>
+<a href="https://github.com/Epta-space/Payload-Telemetry-System">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=epta-space&repo=Payload-Telemetry-System&theme=dark" />
+</a>
+
 <!--
 **De4lerr/De4lerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
