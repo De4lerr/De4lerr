@@ -60,9 +60,13 @@ Focused on building autonomous systems that operate reliably in real-world, cons
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=epta-space&repo=Payload-Sensor-Fusion&theme=dark" />
 </a>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=De4lerr&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=De4lerr&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=De4lerr&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 <!--
 **De4lerr/De4lerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
