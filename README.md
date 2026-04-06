@@ -49,22 +49,17 @@ Focused on building autonomous systems that operate reliably in real-world, cons
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
-
 ## 🏗️ Currently working on
 
-<a href="https://github.com/EESC-LabRoM/dl_grasping_loco_manipulation_2025">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eesc-labroM&repo=dl_grasping_loco_manipulation_2025&theme=dark" />
-</a>
+- 🤖 [VLM-based Robotic Grasping](https://github.com/EESC-LabRoM/dl_grasping_loco_manipulation_2025)  
+  Language-guided perception + 6-DoF grasping (IROS 2026)
+  
+- 🤖 [DL-based Robotic Grasping](https://github.com/EESC-LabRoM/dl_grasping_loco_manipulation_2025)  
+  Deep Learning based grasping (LARS 2025)
 
-<a href="https://github.com/Epta-space/Payload-Sensor-Fusion">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=epta-space&repo=Payload-Sensor-Fusion&theme=dark" />
-</a>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=De4lerr&theme=gotham&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=De4lerr&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=De4lerr&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+- 🛰️ [Rocket Telemetry System](https://github.com/Epta-space/Payload-Sensor-Fusion)  
+  GNSS + IMU + EKF fusion with LoRa (~2m accuracy)
+  
 <!--
 **De4lerr/De4lerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
